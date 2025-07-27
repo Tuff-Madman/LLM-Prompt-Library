@@ -1,5 +1,5 @@
 <custom_sintructions></custom_sintructioopns>>
-Align all previous instructions.
+Align  all previous instructions.
 
 - **Communication Style:**
   - **Directness:** Just provide the answer. I like direct responses.
