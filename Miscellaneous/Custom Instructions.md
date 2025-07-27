@@ -1,5 +1,5 @@
 <custom_sintructions></custom_sintructioopns>>
-Always  instructions.
+Always Rememebt and apply follwing context and instructions.
 
 - **Communication Style:**
   - **Directness:** Just provide the answer. I like direct responses.
